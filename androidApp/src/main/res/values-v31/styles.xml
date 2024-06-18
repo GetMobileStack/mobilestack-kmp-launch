@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#f7f5f3</item>
+        <item name="android:windowSplashScreenBackground">#f7f5f3</item>
+    </style>
+</resources>
